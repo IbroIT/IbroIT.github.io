@@ -1,0 +1,32 @@
+.main{
+    width: 1024px;
+    height: 650px;
+    margin: 0 auto;
+}
+.main_title{
+    font-weight: 770;
+    font-size: 76px;
+    color: #C3073F;
+    margin: 0 0 20px 73px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.main_stick{
+    width: 100px;
+    height: 1px;
+    background: rgb(216 152 4);
+    margin: 235px 0 0 75px;
+}
+.main_text{
+    margin: 0 0 0 75px;
+    color: #C3073F;
+    font-weight: 750;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.icon{
+    width: 32px;
+    height: 32px;
+}
+.main_block{
+    margin: 18px 0 0 75px;
+}

@@ -1,0 +1,32 @@
+.footer{
+    
+    height: 100px;
+    background: rgba(126, 126, 126, 0.202);
+    margin: 0 auto;
+}
+.footer_block{
+    padding: 40px 0 0 0;
+    align-items: center;
+    display: flex;
+}
+.footer_block_text{
+    color: yellow;
+    font-size: 15px;
+    margin: 0 ;
+    width: 220px;
+}
+.footer_link1{
+    color: yellow;
+    font-size: 15px;
+    margin: 0 17px 0 530px;
+}
+.footer_link2{
+    color: yellow;
+    font-size: 15px;
+    margin: 0 15px 0 0;
+}
+.footer_link3{
+    color: yellow;
+    font-size: 15px;
+    margin: 0 0 0 0;
+}

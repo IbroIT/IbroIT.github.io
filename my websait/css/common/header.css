@@ -1,0 +1,27 @@
+.header{
+    width: 1024px;
+    margin: 25px auto 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_logo{
+    color: #C3073F;
+    font-size: 40px;
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.header_ul{
+    width: 414px;
+    height: 27px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+}
+.header_ul_link{
+    color: #C3073F;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}

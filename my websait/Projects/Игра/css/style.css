@@ -1,0 +1,97 @@
+@import url(../css/common/footer.css);
+body{
+    width: 1920px;
+    height: 1200px;
+    background: #272727 ;
+    margin: 0 auto;
+    
+}
+.body_block{
+    margin: 0 0 0 144px;
+}
+.main_box{
+    width: 2000px;
+    margin: 0 auto;
+
+}
+#box__id{
+    
+    width: 1200px;
+    height: 800px;
+    border: solid 7px #C3073F;
+    margin: -734px 0 0 320px;
+}
+#id4{
+    font-size: 45px;
+    margin: -51px 0 0 0;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border: solid 5px blue;
+    border-radius: 100px;
+    display: block;
+}
+.btn1{
+    width: 286px;
+    height: 87px;
+    font-family: 'Teko', sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    background: none;
+    border-radius: 0 20px 0 20px ;
+    border: solid 5px #C3073F ;
+    color: #FDFEFF;
+    margin: 479px  0 0 0;
+    padding: 0 0 0 0;
+}
+.btn1:hover{
+    width: 286px;
+    height: 87px;
+    font-family: 'Teko', sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    background: none;
+    border-radius: 0 20px 0 20px ;
+    border: solid 5px #6a0423 ;
+    color: #c0c0c0;
+    margin: 479px  0 0 0;
+    padding: 0 0 0;
+}
+.btn1:active{
+    width: 286px;
+    height: 87px;
+    font-family: 'Teko', sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+    background: none;
+    border-radius: 0 20px 0 20px ;
+    border: solid 5px #fff ;
+    color: #C3073F;
+    margin: 479px  0 0 0;
+    padding: 0 0 0;
+}
+.p__time{
+    font-weight: 400;
+    font-size: 45px;
+    color: #FDFEFF;
+    font-family: 'Oswald', sans-serif;
+    margin: 32px  0 20px 0;
+
+}
+.p__check{
+    font-weight: 400;
+    color: #FDFEFF;
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif;
+    margin: 0 0 20px 0;
+}
+.main_text{
+    font-family: 'Teko', sans-serif;
+    color: #C3073F;
+    font-size: 20px;
+    margin: -573px  0 0 0;
+    width: 250px;
+
+}
